@@ -34,6 +34,8 @@ The pinout for the TDT can be found [here](https://www.tdt.com/docs/hardware/rz1
 
 ### Materials
 
+* generic db25 terminal block. See [here](https://www.amazon.com/Connector-D-sub-25-pin-Terminal-Breakout/dp/B073RG3GG6/ref=asc_df_B073RG3GG6/?tag=hyprod-20&linkCode=df0&hvadid=216539509836&hvpos=&hvnetw=g&hvrand=17758274187648212718&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9002000&hvtargid=pla-348800028947&psc=1) for the link. You might need to adjust the files if you use a different terminal, but the process should work because it's just wire!
+* Male-female db25 cable such as [this one](https://www.amazon.com/dp/B092QWDZQZ/ref=twister_B092QTYJWY?_encoding=UTF8&th=1)
 * M3 20 mm bronze standoffs
 * 2 precision screwdrivers for the terminals
 * Phoenix style 10 position terminal blocks. We bought 10 instead of 9 because it was easier to get the generic parts from [here](https://www.amazon.com/Augiimor-15PCS-2-54mm-Terminal-Connector/dp/B08B3P8BF3/ref=sr_1_1?content-id=amzn1.sym.ea945d40-8e84-42be-ad5c-249b9bca6a40%3Aamzn1.sym.ea945d40-8e84-42be-ad5c-249b9bca6a40&crid=LO0KLJ0QGMNO&keywords=Terminal+Blocks&pd_rd_r=34f6a4ff-55dc-4279-a9ce-c62dfcd055c4&pd_rd_w=BgHsc&pd_rd_wg=q5rzY&pf_rd_p=ea945d40-8e84-42be-ad5c-249b9bca6a40&pf_rd_r=XCCGPE5VDCCF3R8Z1M9B&pid=rYagDl8&qid=1677857597&refinements=p_n_feature_thirteen_browse-bin%3A18945667011&s=industrial&sprefix=2.54%2Bmm%2Bmount%2Bterminal%2Bblock%2Ctools%2C73&sr=1-1)
