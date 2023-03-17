@@ -1,5 +1,10 @@
-This repository contains the files to cut a case for the Open Ephys Input Output board.
+## Intro
+
+This repository contains the files to cut a case for the [Open Ephys Input Output board](https://open-ephys.org/acquisition-system/io-board-pcb).
 There are two versions of files, one for the regular IO board, and another for a IO board combined with a db25 terminal block.
+
+* [Open Ephys IO Case](https://github.com/matiasandina/oe_io_board_case#open-ephys-io-case)
+* [Open Ephys IO + db25 Case](Open Ephys IO + db25 Case)
 
 ## Open Ephys IO Case
 
